@@ -1,0 +1,23 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variáveis e configurações locais
+.env
+.env.*
+!.env.example
+
+# Editores
+.idea/
+*.suo
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências Node.js, se utilizadas
+node_modules/
